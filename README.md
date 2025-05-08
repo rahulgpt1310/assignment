@@ -1,4 +1,4 @@
-# Hypermart Checkout Assignment System
+# Hypermart Checkout System
 
 This project is a solution to the checkout assignment problem where customers are directed to the checkout counter with the fewest total items.
 
